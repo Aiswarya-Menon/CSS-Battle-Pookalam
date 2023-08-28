@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Colors */
+  --color-maroon: #670d16;
+  --color-black: #000;
+  --color-gold: #ffc805;
+  --color-darkgreen: #21520b;
+  --color-white: #fff;
+}

@@ -1,0 +1,150 @@
+.pookkalam-piece-icon {
+  position: absolute;
+  top: 217.1px;
+  left: 815.16px;
+  width: 313.26px;
+  height: 820.65px;
+}
+.pookkalam-piece-icon1,
+.pookkalam-piece-icon2,
+.pookkalam-piece-icon3 {
+  position: absolute;
+  top: 1010.25px;
+  left: 919.58px;
+  width: 313.26px;
+  height: 820.65px;
+}
+.pookkalam-piece-icon2,
+.pookkalam-piece-icon3 {
+  top: 217.1px;
+}
+.pookkalam-piece-icon3 {
+  top: 1010.25px;
+  left: 815.16px;
+}
+.pookkalam-piece-icon4,
+.pookkalam-piece-icon5 {
+  position: absolute;
+  top: 244.59px;
+  left: 620.55px;
+  width: 500.75px;
+  height: 819.71px;
+}
+.pookkalam-piece-icon5 {
+  top: 983.7px;
+  left: 926.69px;
+}
+.pookkalam-piece-icon6 {
+  position: absolute;
+  top: 815.16px;
+  left: 1010.25px;
+  width: 820.65px;
+  height: 313.26px;
+}
+.pookkalam-piece-icon7,
+.pookkalam-piece-icon8,
+.pookkalam-piece-icon9 {
+  position: absolute;
+  top: 919.58px;
+  left: 217.1px;
+  width: 820.65px;
+  height: 313.26px;
+}
+.pookkalam-piece-icon8,
+.pookkalam-piece-icon9 {
+  left: 1010.25px;
+}
+.pookkalam-piece-icon9 {
+  top: 815.16px;
+  left: 217.1px;
+}
+.pookkalam-piece-icon10,
+.pookkalam-piece-icon11 {
+  position: absolute;
+  top: 620.55px;
+  left: 983.7px;
+  width: 819.71px;
+  height: 500.75px;
+}
+.pookkalam-piece-icon11 {
+  top: 926.69px;
+  left: 244.59px;
+}
+.pookkalam-piece-icon12,
+.pookkalam-piece-icon13 {
+  position: absolute;
+  top: 325.2px;
+  left: 940.44px;
+  width: 654.12px;
+  height: 762.91px;
+}
+.pookkalam-piece-icon13 {
+  top: 959.89px;
+  left: 453.43px;
+}
+.pookkalam-piece-icon14,
+.pookkalam-piece-icon15 {
+  position: absolute;
+  top: 453.43px;
+  left: 959.88px;
+  width: 762.91px;
+  height: 654.12px;
+}
+.pookkalam-piece-icon15 {
+  top: 940.45px;
+  left: 325.2px;
+}
+.pookkalam-piece-icon16,
+.pookkalam-piece-icon17 {
+  position: absolute;
+  top: 244.59px;
+  left: 926.7px;
+  width: 500.75px;
+  height: 819.71px;
+}
+.pookkalam-piece-icon17 {
+  top: 983.69px;
+  left: 620.55px;
+}
+.pookkalam-piece-icon18,
+.pookkalam-piece-icon19 {
+  position: absolute;
+  top: 940.44px;
+  left: 959.89px;
+  width: 762.91px;
+  height: 654.12px;
+}
+.pookkalam-piece-icon19 {
+  top: 453.43px;
+  left: 325.2px;
+}
+.pookkalam-piece-icon20,
+.pookkalam-piece-icon21 {
+  position: absolute;
+  top: 959.88px;
+  left: 940.45px;
+  width: 654.12px;
+  height: 762.91px;
+}
+.pookkalam-piece-icon21 {
+  top: 325.2px;
+  left: 453.43px;
+}
+.pookkalam-piece-icon22,
+.pookkalam-piece-icon23 {
+  position: absolute;
+  top: 926.7px;
+  left: 983.69px;
+  width: 819.71px;
+  height: 500.75px;
+}
+.pookkalam-piece-icon23 {
+  top: 620.55px;
+  left: 244.59px;
+}
+.your-pookkalam-will-appear-her {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2048px;
+}
